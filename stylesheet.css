@@ -1,31 +1,34 @@
-.body {background-color: green;
-    
+.body {background-color: yellow}
+
+
+.topleft {background-color: yellow;
+        height:350px;
+        width:25%;
+        float: left;
+        margin-right:auto;
+        
 }
 
-
-.topleft {background-color:yellow;
-        height:350px;
-        width:25%;}
-
-.topmiddle {background-color:black;
-      height:350px;
+.topmiddle {background-color: black;
+      height: 350px;
       width: 50%;
+      margin-left: auto;
+      margin-right: auto;
       }
       
+.toptext {color: purple;
+        font-family: Helvetica, sans-serif;
+        }
+        
 .topright {background-color:red;
             height:350px;
             width:25%;
             float: right;
+            
             }
 
 
-.toptext {color: black;
-        font-family: Helvetica, sans-serif;
-        
-        
-        
-        
-}
+
           
 
       
