@@ -11,7 +11,7 @@
       width: 50%;
       margin-left:auto;
       margin-right: auto;
-      
+      float: left;
       }
       
 .toptext {color: white;
@@ -23,7 +23,7 @@
 .topright {background-color:red;
             height:350px;
             width:25%;
-            float: right;
+            float: left;
             }
 
 
