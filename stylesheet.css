@@ -1,13 +1,33 @@
-body {
-    background-color:#527A00;
-}
-
-.top {
-    height:200px;
-    width:100%;
-    background-color:#bababa;
-    position:absolute;
+.body {background-color: green;
     
 }
-.banner {clear:both;}
-.players{clear:both;}
+
+
+.topleft {background-color:yellow;
+        height:350px;
+        width:25%;}
+
+.topmiddle {background-color:black;
+      height:350px;
+      width: 50%;
+      }
+      
+.topright {background-color:red;
+            height:350px;
+            width:25%;
+            float: right;
+            }
+
+
+.toptext {color: black;
+        font-family: Helvetica, sans-serif;
+        
+        
+        
+        
+}
+          
+
+      
+    
+}
