@@ -2,37 +2,29 @@
 .topleft {background-color: black;
         height:300px;
         width:30%;
-        float: left;
-        
-}
+        float: left;}
 
 .upperbar {height:3px;
             width:100%;
             background-color: red;
-            margin-top:175px;
-            }
+            margin-top:175px;}
             
 .lowerbar {height: 12px;
             width: 100%;
             background-color: red;
-            margin-top: 25px;
-}
+            margin-top: 25px;}
 
 .topmiddle {background-color: black;
       height: 300px;
       width: 40%;
       margin-left:auto;
       margin-right: auto;
-      float: left;
-      }
+      float: left;}
 
 .toptext {color: white;
         font-family: Helvetica, sans-serif;
         font-size:1.5em;
-        text-align: center;
-        
-        
-        }
+        text-align: center;}
         
 .topright {background-color:black;
             height:300px;
@@ -51,3 +43,94 @@
                    background-color: black;
                    float: right;
                    }
+
+.middletexttop {height: 75px;
+                width:100%;
+                }
+                
+.middletextmiddle {height: 75px;
+                width:100%;}
+                
+                
+.middletextbottom {height: 75px;
+                width:100%;
+                }
+                
+.middlethirdrighttexttop {color:white;
+                       text-align: center;
+                       }
+
+.middlethirdrighttextmiddle {color:white;
+                       text-align: center;
+                        }
+
+.middlethirdrighttextbottom {color:white;
+                       text-align: center;
+                        }
+                        
+.bottomthirdtop     {height: 425px;
+                  width: 100%;
+                  background-color: black;
+                    }
+                  
+.bottomthirdtopbox   {height: 175px;
+                   width:25%;
+                   border: solid white 1px;
+                   border-radius: 5px;
+                   margin-top: 25px;
+                   margin-left:173px;
+                   margin-right:173px;
+                   background-color:red;
+                    float: left;
+                    }
+
+.bottomthirdmiddle     {height: 425px;
+                  width: 100%;
+                  background-color: black;
+                    }
+
+.bottomthirdmiddlebox {height: 175px;
+                   width:25%;
+                   border: solid white 1px;
+                   border-radius: 5px;
+                   background-color:red;
+                   float: left;
+                   margin-top: 25px;
+                   margin-left:173px;
+                   margin-right:173px;
+                }
+
+.bottomthirdbottom {height: 425px;
+                  width: 100%;
+                  background-color: black;
+                    }
+
+.bottomthirdbottombox {height: 175px;
+                   width:25%;
+                   border: solid white 1px;
+                   border-radius: 5px;
+                   background-color:red;
+                   float: left;
+                   margin-top: 25px;
+                   margin-left:173px;
+                   margin-right:173px;
+                   }
+
+.toprowinfo {color:white;
+            text-align: center;}
+
+.middlerowinfo {color:black;
+            text-align: center;}
+            
+.bottomrowinfo {text-align: center;}
+
+.ko     {color: yellow}
+
+.submission {color:white}
+
+.decision {color:blue}
+
+            
+            
+                   
+                   
